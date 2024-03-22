@@ -34,7 +34,7 @@ The approach taken shall involve the following steps:
 
 ### 1. TREND ANALYSIS ON MOVIE INDUSTRY PERFORMANCE SINCE 2010
 The movie industry has shown a continuous growth since 2010 both in the domestic market and worldwide
-![Trend Analysis](Trend Analysis since 2010.png)
+![Trend Analysis](Trend_Analysis.png)
 
 ### 2. HIGHEST RATED GENRES SINCE 2010
 The data provided insight into the genres that have the highest ratings amongst movie goers
