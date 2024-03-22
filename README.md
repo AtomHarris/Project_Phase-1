@@ -46,7 +46,7 @@ From the data collected we were able to determine the top 5 movie directors and 
 
 ### 4. CORRELATION BETWEEN RATINGS AND PROFITS
 Does higher ratings mean higher gross profits of a movie? The data provided insight into this correlation to determine movie success
-![Correlation_Analysis](Correlation_analysis_Ratings_VS_Profits)
+![Correlation_Analysis](Correlation_Analysis.png)
 
 ### 5. HIGHEST PROFIT GENERATING STUDIOS
 Benchmarking and potential partnerships were the key driving force with this data analysis as well as a comparison of the future competition
