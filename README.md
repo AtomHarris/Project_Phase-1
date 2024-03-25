@@ -8,7 +8,8 @@ Keeping in line with Microsoft's Motto of "Be What's Next!",Microsoft is looking
 
 ## Business Understanding
 
-The key to this explorative analysis will be to understand the success factors in the movie industry. According to S.Sowndarya, 2021 from the Journal of emerging technologies and innovative research states that the factors such as producer, production house, director, cast, runtime of the movie, genre, script, and time of release play a vital role in determining the success of a film. It can be noted that success of a film relates to the profit margins that the film house makes as well as the popularity of that film amongst the movie goes
+The key to this explorative analysis will be to understand the success factors in the movie industry. According to S.Sowndarya, 2021 from the Journal of emerging technologies and innovative research states that the factors such as producer, production house, director, cast, runtime of the movie, genre, script, and time of release play a vital role in determining the success of a film. It can be noted that success of a film relates to the profit margins that the film house makes as well as the popularity of that film amongst the movie goers.
+
 This shall form the basis of out research as we seek to answer the follwoing questions:
 1. What genre has the highest rating in the past 5 years?
 2. Which directors and writers should Microsoft Dream Factory(MDF) partner with?
@@ -59,5 +60,5 @@ From the thorough analysis the following is recommended:
 3. The top 5 studios should be considerd as a source of expertise as well as an avenue to explore international markets
 
 ## CONCLUSIONS
-While the information garnered gives us a wide range of information that can be further investigated, it is missing some key factors that would determine the success of a studio such as marketing strategy, cultural impact analysis, Intellectual Property and Franchise Development and many other factors that need to be further identified and analyzed. 
-We can also surmise that the highest ratings do not necessary related to the highest profit margins and so further analysis on correlation between the two factors should be investigated
+The information garnered gives us actionable insights to the success of the movie studion but it is missing some key factors that would determine the success of a studio such as marketing strategy, cultural impact analysis, Intellectual Property and Franchise Development and other factors that need to be further identified and analyzed.
+
