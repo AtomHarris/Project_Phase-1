@@ -54,7 +54,7 @@ Benchmarking and potential partnerships were the key driving force with this dat
 
 ## RECOMMENDATIONS
 From the thorough analysis the following is recommended:
-1. The genres to most consider venturing into initially are documentary, sport, biography, music and history genres which have the highest rating.
+1. The genres to most consider venturing into initially are documentary, biography,sports, musicals and animation genres which have the highest rating.
 2. Consider partnering with the highest rated directors and writers to produce the content that will net you the biggest profit margins
 3. The top 5 studios should be considerd as a source of expertise as well as an avenue to explore international markets
 
